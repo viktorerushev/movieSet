@@ -1,0 +1,1 @@
+web: gunicorn movieSet.wsgi --log-file -
